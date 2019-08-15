@@ -10,3 +10,4 @@ useful books and articles that i read or i want to read
 <br>7.https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
 <br>8.https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
 <br>9.https://www.youtube.com/watch?v=ckO98bRzL9Y
+<br>10.https://www.shtandart.ru/
