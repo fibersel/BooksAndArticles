@@ -11,3 +11,4 @@ useful books and articles that i read or i want to read
 <br>8.https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
 <br>9.https://www.youtube.com/watch?v=ckO98bRzL9Y
 <br>10.https://www.shtandart.ru/
+<br>11.http://www.grymoire.com/Unix/Awk.html
