@@ -12,3 +12,4 @@ useful books and articles that i read or i want to read
 <br>9.https://www.youtube.com/watch?v=ckO98bRzL9Y
 <br>10.https://www.shtandart.ru/
 <br>11.http://www.grymoire.com/Unix/Awk.html
+<br>12.https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin
