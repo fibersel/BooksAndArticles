@@ -13,3 +13,4 @@ useful books and articles that i read or i want to read
 <br>10.https://www.shtandart.ru/
 <br>11.http://www.grymoire.com/Unix/Awk.html
 <br>12.https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin
+<br>13.https://medium.com/@pypripackages/using-gitlab-pipelines-to-deploy-python-packages-in-production-and-staging-environments-8ab7dc979274
