@@ -22,3 +22,4 @@ useful books and articles that i read or i want to read
 <br>19.https://habr.com/ru/post/416669/
 <br>20.https://dzone.com/articles/dont-use-apache-kafka-consumer-groups-the-wrong-wa
 <br>21.https://kafka.apache.org/10/documentation/streams/architecture.html#streams-architecture-threads
+<br>22.https://medium.com/@chusiang/install-the-vim-8-0-and-youcompleteme-with-make-on-centos-7-4-1573ad780953
