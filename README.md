@@ -23,3 +23,4 @@ useful books and articles that i read or i want to read
 <br>20.https://dzone.com/articles/dont-use-apache-kafka-consumer-groups-the-wrong-wa
 <br>21.https://kafka.apache.org/10/documentation/streams/architecture.html#streams-architecture-threads
 <br>22.https://medium.com/@chusiang/install-the-vim-8-0-and-youcompleteme-with-make-on-centos-7-4-1573ad780953
+<br>23.https://spoddutur.github.io/spark-notes/distribution_of_executors_cores_and_memory_for_spark_application.html#:~:text=Based%20on%20the%20recommendations%20mentioned,cluster%20%3D%2015%20x%2010%20%3D%20150
